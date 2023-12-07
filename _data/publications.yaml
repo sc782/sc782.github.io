@@ -24,7 +24,7 @@ papers:
   - title: "Mixed-Curvature Transformers for Graph Representation Learning"
     image: "/assets/publications/2023_mixed_curvature/image.png"
     authors: "<b>Sungjun Cho</b>, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee"
-    venue: "TAG-ML Workshop in ICML 2023"
+    venue: "TAG-ML Workshop at ICML 2023"
     paper_pdf: "https://openreview.net/forum?id=DFnk58DwTE"
     selected: y
 
