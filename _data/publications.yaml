@@ -2,77 +2,77 @@ papers:
 
   - title: "Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers"
     image: "/assets/publications/2023_learning_to/image.png"
-    authors: "Sungmin Cha<sup>‡</sup>, <b>Sungjun Cho<sup>‡</sup><\b>, Dasol Hwang<sup>‡</sup>, Honglak Lee, Taesup Moon, Moontae Lee"
+    authors: "Sungmin Cha<sup>‡</sup>, <b>Sungjun Cho<sup>‡</sup></b>, Dasol Hwang<sup>‡</sup>, Honglak Lee, Taesup Moon, Moontae Lee"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2301.11578"
     selected: y
 
   - title: "3D Denoisers are Good 2D Teachers: Molecular Pretraining via Denoising and Cross-Modal Distillation"
     image: "/assets/publications/2023_3d_denoisers/image.png"
-    authors: "<b>Sungjun Cho<\b>, Dae-Woong Jeong, Sung Moon Ko, Jinwoo Kim, Sehui Han, Seunghoon Hong, Honglak Lee, Moontae Lee"
+    authors: "<b>Sungjun Cho</b>, Dae-Woong Jeong, Sung Moon Ko, Jinwoo Kim, Sehui Han, Seunghoon Hong, Honglak Lee, Moontae Lee"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2309.04062"
     selected: y
 
   - title: "Using Spectral Characterization to Identify Healthcare-Associated Infection (HAI) Patients for Clinical Contact Precaution"
     image: "/assets/publications/2023_using_spectral/image.png"
-    authors: "Jiaming Cui<sup>‡</sup>, <b>Sungjun Cho<sup>‡</sup><\b>, Methun Kamruzzaman, Matthew Bielskas, Anil Vullikanti, B. Aditya Prakash"
+    authors: "Jiaming Cui<sup>‡</sup>, <b>Sungjun Cho<sup>‡</sup></b>, Methun Kamruzzaman, Matthew Bielskas, Anil Vullikanti, B. Aditya Prakash"
     venue: "Scientific Reports 2023"
     paper_pdf: "https://www.nature.com/articles/s41598-023-41852-5"
     selected: y
 
   - title: "Mixed-Curvature Transformers for Graph Representation Learning"
     image: "/assets/publications/2023_mixed_curvature/image.png"
-    authors: "<b>Sungjun Cho<\b>, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee"
+    authors: "<b>Sungjun Cho</b>, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee"
     venue: "TAG-ML Workshop in ICML 2023"
     paper_pdf: "https://openreview.net/forum?id=DFnk58DwTE"
     selected: y
 
   - title: "Rebalancing Batch Normalization for Exemplar-based Class-Incremental Learning"
     image: "/assets/publications/2023_rebalancing_batch/image.png"
-    authors: "Sungmin Cha, <b>Sungjun Cho<\b>, Dasol Hwang, Sunwon Hong, Moontae Lee, Taesup Moon"
+    authors: "Sungmin Cha, <b>Sungjun Cho</b>, Dasol Hwang, Sunwon Hong, Moontae Lee, Taesup Moon"
     venue: "CVPR 2023"
     paper_pdf: "https://arxiv.org/abs/2201.12559"
     selected: y
 
   - title: "Grouping-matrix based Graph Pooling with Adaptive Number of Clusters"
     image: "/assets/publications/2023_grouping_matrix/image.png"
-    authors: "Sung Moon Ko, <b>Sungjun Cho<\b>, Dae-Woong Jeong, Sehui Han, Moontae Lee, Honglak Lee"
+    authors: "Sung Moon Ko, <b>Sungjun Cho</b>, Dae-Woong Jeong, Sehui Han, Moontae Lee, Honglak Lee"
     venue: "AAAI 2023"
     paper_pdf: "https://arxiv.org/abs/2209.02939"
     selected: y
     
   - title: "Transformers meet Stochastic Block Models: Attention with Data-Adaptive Sparsity and Cost"
     image: "/assets/publications/2022_transformers_meet/image.png"
-    authors: "<b>Sungjun Cho<\b>, Seonwoo Min, Jinwoo Kim, Moontae Lee, Honglak Lee, Seunghoon Hong"
+    authors: "<b>Sungjun Cho</b>, Seonwoo Min, Jinwoo Kim, Moontae Lee, Honglak Lee, Seunghoon Hong"
     venue: "NeurIPS 2022"
     paper_pdf: "https://arxiv.org/abs/2210.15541"
     selected: y
     
   - title: "Pure Transformers are Powerful Graph Learners"
     image: "/assets/publications/2022_pure_transformers/image.png"
-    authors: "Jinwoo Kim, Tien Dat Nguyen, Seonwoo Min, <b>Sungjun Cho<\b>, Moontae Lee, Honglak Lee, Seunghoon Hong"
+    authors: "Jinwoo Kim, Tien Dat Nguyen, Seonwoo Min, <b>Sungjun Cho</b>, Moontae Lee, Honglak Lee, Seunghoon Hong"
     venue: "NeurIPS 2022"
     paper_pdf: "https://arxiv.org/abs/2207.02505"
     selected: y
 
   - title: "Equivariant Hypergraph Neural Networks"
     image: "/assets/publications/2022_equivariant_hypergraph/image.png"
-    authors: "Jinwoo Kim, Saeyoon Oh, <b>Sungjun Cho<\b>, Seunghoon Hong"
+    authors: "Jinwoo Kim, Saeyoon Oh, <b>Sungjun Cho</b>, Seunghoon Hong"
     venue: "ECCV 2022"
     paper_pdf: "https://arxiv.org/abs/2208.10428"
     selected: y
     
   - title: "On-the-fly Rectification for Robust Large-Vocabulary Topic Inference"
     image: "/assets/publications/2021_on_the/image.png"
-    authors: "Moontae Lee, <b>Sungjun Cho<\b>, Kun Dong, David Mimno, David Bindel"
+    authors: "Moontae Lee, <b>Sungjun Cho</b>, Kun Dong, David Mimno, David Bindel"
     venue: "ICML 2021"
     paper_pdf: "https://arxiv.org/abs/2111.06580"
     selected: y
     
   - title: "Practical Correlated Topic Modelings and Analysis via the Rectified Anchor Word Algorithm"
     image: "/assets/publications/2022_practical_correlated/image.png"
-    authors: "Moontae Lee, <b>Sungjun Cho<\b>, David Bindel, David Mimno"
+    authors: "Moontae Lee, <b>Sungjun Cho</b>, David Bindel, David Mimno"
     venue: "EMNLP 2019"
     paper_pdf: "https://aclanthology.org/D19-1504/"
     selected: y
