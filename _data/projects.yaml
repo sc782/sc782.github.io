@@ -1,14 +1,9 @@
 projects:
-  - title: "Detecting Network Effects"
-    subtitle: "Randomizing Over Randomized Experiments"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
-    url: "projects/2016_network-ab-testing.html"
-    selected: y
-
-  - title: "Human Atlas"
-    subtitle: "Tool for Mapping Social Networks"
-    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-    url: "projects/2016_human-atlas.html"
+  - title: "Using Spectral Characterization to Identify Healthcare-Associated Infection (HAI) Patients for Clinical Contact Precaution"
+    image: ""
+    authors: "Jiaming Cui*, <b>Sungjun Cho*<\b>, Methun Kamruzzaman, Matthew Bielskas, Anil Vullikanti, B. Aditya Prakash"
+    venue: "Scientific Reports 2023"
+    paper_pdf: "https://www.nature.com/articles/s41598-023-41852-5"
     selected: y
 
   - title: "Responsive Communities"
