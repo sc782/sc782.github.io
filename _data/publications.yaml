@@ -70,8 +70,8 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2111.06580"
     selected: y
     
-  - title: "Practical Correlated Topic Modelings and Analysis via the Rectified Anchor Word Algorithm"
-    image: "/assets/publications/2022_practical_correlated/image.png"
+  - title: "Practical Correlated Topic Modeling and Analysis via the Rectified Anchor Word Algorithm"
+    image: "/assets/publications/2019_practical_correlated/image.png"
     authors: "Moontae Lee, <b>Sungjun Cho</b>, David Bindel, David Mimno"
     venue: "EMNLP 2019"
     paper_pdf: "https://aclanthology.org/D19-1504/"
