@@ -1,17 +1,17 @@
 papers:
 
-  - title: "Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers"
-    image: "/assets/publications/2023_learning_to/image.png"
-    authors: "Sungmin Cha<sup>‡</sup>, <b>Sungjun Cho<sup>‡</sup></b>, Dasol Hwang<sup>‡</sup>, Honglak Lee, Taesup Moon, Moontae Lee"
-    venue: "Preprint"
-    paper_pdf: "https://arxiv.org/abs/2301.11578"
-    selected: y
-
   - title: "3D Denoisers are Good 2D Teachers: Molecular Pretraining via Denoising and Cross-Modal Distillation"
     image: "/assets/publications/2023_3d_denoisers/image.png"
     authors: "<b>Sungjun Cho</b>, Dae-Woong Jeong, Sung Moon Ko, Jinwoo Kim, Sehui Han, Seunghoon Hong, Honglak Lee, Moontae Lee"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2309.04062"
+    selected: y
+
+  - title: "Learning to Unlearn: Instance-wise Unlearning for Pre-trained Classifiers"
+    image: "/assets/publications/2023_learning_to/image.png"
+    authors: "Sungmin Cha<sup>‡</sup>, <b>Sungjun Cho<sup>‡</sup></b>, Dasol Hwang<sup>‡</sup>, Honglak Lee, Taesup Moon, Moontae Lee"
+    venue: "AAAI 2024"
+    paper_pdf: "https://arxiv.org/abs/2301.11578"
     selected: y
 
   - title: "Using Spectral Characterization to Identify Healthcare-Associated Infection (HAI) Patients for Clinical Contact Precaution"
