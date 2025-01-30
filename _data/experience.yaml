@@ -1,7 +1,13 @@
 experiences:
 
+- place: "University of Wisconsin-Madison"
+  time: "2024 - now"
+  title: "Ph.D. Student"
+  subtitle: "Computer Science"
+  category: "school"
+
 - place: "LG AI Research"
-  time: "2022 - now"
+  time: "2022 - 2024"
   title: "Research Scientist, Full-time"
   subtitle: "Advanced ML Lab"
   category: "work"
@@ -12,7 +18,7 @@ experiences:
   subtitle: "Fundamental Research Lab"
   category: "work"
 
-- place: "Georgia Tech"
+- place: "Georgia Institute of Technology"
   time: "2020 - 2021"
   title: "Ph.D. Student (left in good standing)"
   subtitle: "Computational Science & Engineering"
