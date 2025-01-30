@@ -1,9 +1,16 @@
 papers:
 
+  - title: "Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models"
+    image: ""
+    authors: "Sungmin Cha<sup>‡</sup>, <b>Sungjun Cho<sup>‡</sup></b>, Dasol Hwang, Moontae Lee"
+    venue: "ICLR 2025"
+    paper_pdf: "https://arxiv.org/abs/2408.06621"
+    selected: y
+
   - title: "3D Denoisers are Good 2D Teachers: Molecular Pretraining via Denoising and Cross-Modal Distillation"
     image: "/assets/publications/2023_3d_denoisers/image.png"
     authors: "<b>Sungjun Cho</b>, Dae-Woong Jeong, Sung Moon Ko, Jinwoo Kim, Sehui Han, Seunghoon Hong, Honglak Lee, Moontae Lee"
-    venue: "Preprint"
+    venue: "AAAI 2025"
     paper_pdf: "https://arxiv.org/abs/2309.04062"
     selected: y
 
