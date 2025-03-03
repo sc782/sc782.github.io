@@ -1,6 +1,6 @@
 papers:
 
-  - title: "Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models"
+  - title: "Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs"
     image: "/assets/publications/2025_towards_robust/image.png"
     authors: "Sungmin Cha<sup>‡</sup>, <b>Sungjun Cho<sup>‡</sup></b>, Dasol Hwang, Moontae Lee"
     venue: "ICLR 2025"
