@@ -3,6 +3,7 @@ papers:
   - title: "Reference-Specific Unlearning Metrics Can Hide the Truth: A Reality Check"
     image: "/assets/publications/2025_reference_specific/image.png"
     authors: "<b>Sungjun Cho</b>, Dasol Hwang, Frederic Sala, Sangheum Hwang, Kyunghyun Cho, Sungmin Cha"
+    venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2510.12981"
     selected: y
 
