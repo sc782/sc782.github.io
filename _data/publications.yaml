@@ -1,10 +1,24 @@
 papers:
 
+  - title: "LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting"
+    image: "/assets/publications/2025_llm_integrated/image.png"
+    authors: "<b>Sungjun Cho</b>, Changho Shin, Suenggwan Jo, Xinya Yan, Shourjo Aditya Chaudhuri, Frederic Sala"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2510.20952"
+    selected: y
+
   - title: "Reference-Specific Unlearning Metrics Can Hide the Truth: A Reality Check"
     image: "/assets/publications/2025_reference_specific/image.png"
     authors: "<b>Sungjun Cho</b>, Dasol Hwang, Frederic Sala, Sangheum Hwang, Kyunghyun Cho, Sungmin Cha"
     venue: "Preprint"
     paper_pdf: "https://arxiv.org/abs/2510.12981"
+    selected: y
+
+  - title: "TARDIS: Mitigating Temporal Misalignment via Representation Steering"
+    image: "/assets/publications/2025_tardis_mitigating/image.png"
+    authors: "Changho Shin, Xinya Yan, Suenggwan Jo, <b>Sungjun Cho</b>, Shourjo Aditya Chaudhuri, Frederic Sala"
+    venue: "Preprint"
+    paper_pdf: "https://arxiv.org/abs/2503.18693"
     selected: y
 
   - title: "Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs"
