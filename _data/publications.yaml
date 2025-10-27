@@ -3,14 +3,14 @@ papers:
   - title: "LLM-Integrated Bayesian State Space Models for Multimodal Time-Series Forecasting"
     image: "/assets/publications/2025_llm_integrated/image.png"
     authors: "<b>Sungjun Cho</b>, Changho Shin, Suenggwan Jo, Xinya Yan, Shourjo Aditya Chaudhuri, Frederic Sala"
-    venue: "Preprint"
+    venue: "Recent Advances in Time Series Foundation Models (BERT2S) Workshop at NeurIPS 2025"
     paper_pdf: "https://arxiv.org/abs/2510.20952"
     selected: y
 
   - title: "Reference-Specific Unlearning Metrics Can Hide the Truth: A Reality Check"
     image: "/assets/publications/2025_reference_specific/image.png"
     authors: "<b>Sungjun Cho</b>, Dasol Hwang, Frederic Sala, Sangheum Hwang, Kyunghyun Cho, Sungmin Cha"
-    venue: "Preprint"
+    venue: "Evaluating the Evolving LLM Lifecycle (LLM-Eval) Workshop at NeurIPS 2025"
     paper_pdf: "https://arxiv.org/abs/2510.12981"
     selected: y
 
